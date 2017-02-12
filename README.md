@@ -23,6 +23,4 @@ From the data set in step 4, creates a second, independent tidy data set with th
 variable for each activity and each subject.
 
 The code contains comments explaining what is done to the data at each stage. 
-I have not created a codebook as I beleive the comments in the code was sufficient and did
-not want to create something completly irrelevant so I am looking forward to see co-student work 
-to get inspired.
+The code book list the variables in this dataset.
